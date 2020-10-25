@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com._portable_mavestals.Main
+Class-Path: com._portable_mavestals.**
+

@@ -1,0 +1,49 @@
+.yes_or_no {
+    -fx-font-family: 'Montserrat';
+    -fx-font-size: 18px;
+    -fx-font-weight: 700;
+}
+
+.login_and_signup_buttons {
+    -fx-font-family: 'Montserrat Semibold';
+    -fx-font-size: 16px;
+}
+
+.back_and_signup_buttons,
+#back_btn_type_two {
+    -fx-font-family: 'Montserrat Medium';
+    -fx-font-size: 14px;
+}
+
+.input_text {
+    -fx-font-family: 'Montserrat Medium';
+    -fx-font-size: 14px;
+    -fx-text-fill: #000000;
+    -fx-prompt-text-fill: #AAAAAA;
+}
+
+#hello_user_text {
+    -fx-font-family: 'Montserrat';
+    -fx-font-size: 28px;
+    -fx-font-weight: 700;
+}
+
+#progress_status_text {
+    -fx-font-family: 'Montserrat Semibold';
+    -fx-font-size: 14px;
+}
+
+.progBar>.track,
+.progBar>.bar {
+    -fx-background-color-radius: 0;
+    -fx-background-insets: 0;
+}
+
+.progBar>.bar {
+    -fx-background-color: #1A1C1B;
+}
+
+.progBar>.track {
+    -fx-background-color: #FEFEFE;
+    -fx-opacity: 1.0;
+}

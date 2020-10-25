@@ -1,0 +1,19 @@
+.activity_date {
+    -fx-font-family: 'Montserrat Medium';
+    -fx-font-size: 16px;
+}
+
+.activity_time {
+    -fx-font-family: 'Montserrat Medium';
+    -fx-font-size: 13px;
+}
+
+.activity_name {
+    -fx-font-family: 'Montserrat Medium';
+    -fx-font-size: 14px;
+}
+
+.activity_info {
+    -fx-font-family: 'Montserrat';
+    -fx-font-size: 12px;
+}

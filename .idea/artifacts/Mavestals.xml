@@ -1,0 +1,43 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Mavestals">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mavestals</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="alias" value="" />
+        <option name="appClass" value="com._portable_mavestals.Main" />
+        <option name="convertCss2Bin" value="true" />
+        <option name="description" value="Designed for monitoring pocket money expenditure" />
+        <option name="enabledSigning" value="true" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="icons">
+          <JavaFxApplicationIcons>
+            <option name="windowsIcon" value="$PROJECT_DIR$/src/com/_portable_mavestals/_image/_icon/ico_logo.ico" />
+          </JavaFxApplicationIcons>
+        </option>
+        <option name="keystore" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="Mavestals" />
+        <option name="vendor" value="Mandela muriithi" />
+        <option name="version" value="1.0.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Mavestals.jar">
+        <element id="module-output" name="Portable Mavestals" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+      <element id="directory" name="lib">
+        <element id="file-copy" path="$PROJECT_DIR$/lib/AnimateFX-1.2.01.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/annotations-17.0.01.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/commons-io-2.6.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/controlsfx-8.40.11.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/jfoenix-8.0.8.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/gson-2.8.2.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/commons-lang3-3.9.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/fontawesomefx-8.9.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>

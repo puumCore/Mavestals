@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Portable Mavestals.iml" filepath="$PROJECT_DIR$/Portable Mavestals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Portable Mavestals.iml" filepath="$PROJECT_DIR$/.idea/Portable Mavestals.iml" />
     </modules>
   </component>
 </project>
